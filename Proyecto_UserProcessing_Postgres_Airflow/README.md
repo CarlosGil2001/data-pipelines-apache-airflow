@@ -18,7 +18,7 @@
       docker-compose ps
       docker exec -it <dir>-airflow-scheduler-1 /bin/bash
 
-### 2) Ejecutamos la Tarea del DAG para probarlo
+### 2) Testeamos las Tareas del DAG para probarlo
       airflow tasks test <name_dag> <tasks_name> <fecha_simular <= fecha_actual>
       airflow tasks test user_processing create_table 2023-07-13
       airflow tasks test user_processing is_api_available 2023-07-13
