@@ -1,0 +1,8 @@
+{
+    "path_file":"/opt/airflow/dags/dag_lg/data/teams_ligas.csv",
+    "stage":"stage_lf",
+    "table":"ligas_futbol",
+    "DWH":"wh_lf",
+    "DB":"snowflake_ligasfutbol",
+    "ROLE":"accountadmin"
+}
