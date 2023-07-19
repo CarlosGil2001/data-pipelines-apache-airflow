@@ -1,4 +1,5 @@
 # Data Pipeline Airflow - API - Postgres
+![Airflow_API_Postgres](https://github.com/CarlosGil2001/data-pipelines-apache-airflow/assets/101606140/a247e799-3d1f-484a-8c3e-65e3c171ad63)
 ![image](https://github.com/CarlosGil2001/data-pipelines-apache-airflow/assets/101606140/1dae1e1e-5115-477f-b6ff-166aabb66f4c)
 
 ### Iniciar los servicio definidos en "docker-compose.json"
