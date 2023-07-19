@@ -1,5 +1,5 @@
 # Data Pipeline Airflow - Web Scraping - Snowflake
-![Airflow_Snowflake drawio](https://github.com/CarlosGil2001/data-pipelines-apache-airflow/assets/101606140/54d8ec6e-4874-45ae-9689-8f616e5016f3)
+![Airflow_Snowflake](https://github.com/CarlosGil2001/data-pipelines-apache-airflow/assets/101606140/c96b8cbf-0773-4e2e-9073-254e4a74fabe)
 ![image](https://github.com/CarlosGil2001/data-pipelines-apache-airflow/assets/101606140/769d7fa7-da0b-49df-bbf5-e10aa32ab13d)
 
 ### Iniciar los servicio definidos en "docker-compose.json"
