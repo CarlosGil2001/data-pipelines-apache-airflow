@@ -1,4 +1,5 @@
 # Data Pipeline Airflow - Snowflake
+![image](https://github.com/CarlosGil2001/data-pipelines-apache-airflow/assets/101606140/769d7fa7-da0b-49df-bbf5-e10aa32ab13d)
 
 ### Iniciar los servicio definidos en "docker-compose.json"
       docker-compose up -d
